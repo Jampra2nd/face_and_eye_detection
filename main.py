@@ -1,5 +1,4 @@
 import cv2
-import os
 import numpy as py
 # selecting which camera to access
 cap = cv2.VideoCapture(0)
